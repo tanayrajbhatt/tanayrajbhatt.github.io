@@ -8,7 +8,7 @@ draft: false
 
 ### Working Papers
 
-1. Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India <span style="font-style: italic; color: gray;">(2nd revision submitted)</span>
+{{< paper title="Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India" authors="Arpit Deomurari, Athisii Kayina, Poonam Kumari, Nitin Sekar, Sanchaya Sharma, E. Somanathan (2nd revision submitted)" >}}
 
 {{< dropdown title="Abstract" link="http://example.com/paper2" >}}
 Human-elephant conflict (HEC) frequently results in human and elephant mortality, posing
@@ -27,7 +27,8 @@ where organized guarding occurs. Our study highlights the indispensability of ri
 evaluations for finding win-win solutions to human-wildlife conflict.
 {{< /dropdown >}}
 
-2. Uncertainty, Single Crossing Property, and Stochastic Choice data
+
+{{ paper title="Uncertainty, Single Crossing Property, and Stochastic Choice data" >}}
   
 {{< dropdown title="Abstract" >}}
 In a typical model of private information and choice under uncertainty, a decision
