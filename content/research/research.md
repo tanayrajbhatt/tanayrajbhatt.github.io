@@ -10,7 +10,7 @@ draft: false
 
 {{< paper title="Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India" authors="with Arpit Deomurari, Athisii Kayina, Poonam Kumari, Nitin Sekar, Sanchaya Sharma, E. Somanathan (2nd revision submitted)" >}}
 
-{{< dropdown title="Abstract" link="http://example.com/paper2" >}}
+<!-- {{< dropdown title="Abstract" link="http://example.com/paper2" >}}
 Human-elephant conflict (HEC) frequently results in human and elephant mortality, posing
 major social justice and conservation concerns across Asia and Africa. While a variety of
 interventions have been introduced to mitigate HEC, rigorous evaluations of how they
@@ -26,10 +26,10 @@ evidence suggesting elephants may be more likely to suffer an accidental death i
 where organized guarding occurs. Our study highlights the indispensability of rigorous
 evaluations for finding win-win solutions to human-wildlife conflict.
 {{< /dropdown >}}
-
+ -->
 {{< paper title="Uncertainty, Single Crossing Property, and Stochastic Choice data" >}}
   
-{{< dropdown title="Abstract" link="https://drive.google.com/file/d/1Te9HwXTSzPvojyVnFbP3Yw5u_sGeU-vx/view?usp=drive_link">}}
+<!-- {{< dropdown title="Abstract" link="https://drive.google.com/file/d/1Te9HwXTSzPvojyVnFbP3Yw5u_sGeU-vx/view?usp=drive_link">}}
 In a typical model of private information and choice under uncertainty, a decision
 maker observes a signal, updates her prior beliefs using Bayes rule, and maximizes her
 expected utility. If the decision maker’s utility function satisfies the single crossing
@@ -39,7 +39,7 @@ We consider the restrictions placed by this model of signal processing on state 
 ditional stochastic choice data. In particular, we show that this model rationalizes a
 state conditional stochastic choice dataset if and only if the dataset itself is ordered
 according to the monotone likelihood ratio.
-{{< /dropdown >}}
+{{< /dropdown >}} -->
 
 ### Work in Progress
 
