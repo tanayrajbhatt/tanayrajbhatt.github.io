@@ -29,7 +29,7 @@ evaluations for finding win-win solutions to human-wildlife conflict.
 
 {{< paper title="Uncertainty, Single Crossing Property, and Stochastic Choice data" >}}
   
-{{< dropdown title="Abstract" >}}
+{{< dropdown title="Abstract" link="https://drive.google.com/file/d/1Te9HwXTSzPvojyVnFbP3Yw5u_sGeU-vx/view?usp=drive_link">}}
 In a typical model of private information and choice under uncertainty, a decision
 maker observes a signal, updates her prior beliefs using Bayes rule, and maximizes her
 expected utility. If the decision maker’s utility function satisfies the single crossing
