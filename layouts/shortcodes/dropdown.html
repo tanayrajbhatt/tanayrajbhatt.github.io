@@ -1,0 +1,8 @@
+<details>
+  <summary>{{ .Get "title" }}
+    {{ if .Get "link" }}
+      <a href="{{ .Get "link" }}" target="_blank">[Link]</a>
+    {{ end }}
+  </summary>
+  <div>{{ .Inner }}</div>
+</details>
