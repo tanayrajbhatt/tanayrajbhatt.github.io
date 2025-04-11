@@ -1,0 +1,14 @@
+<!-- <div class="paper">
+  <h3 class="paper-title">{{ .Get "title" }}</h3>
+  <p class="paper-authors">{{ .Get "authors" }}</p>
+</div> -->
+
+<div class="paper">
+  <h3 class="paper-title">{{ .Get "title" }}</h3>
+  <p class="paper-authors"><em>{{ .Get "authors" }}</em> 
+    {{ if .Get "status" }} (<strong>{{ .Get "status" }}</strong>){{ end }}
+    {{ if .Get "link" }} <a href="{{ .Get "link" }}" target="_blank">[Link]</a>{{ end }}
+  </p>
+</div>
+
+

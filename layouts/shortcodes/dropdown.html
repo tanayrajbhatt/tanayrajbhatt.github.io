@@ -1,0 +1,10 @@
+<details>
+  <summary>{{ .Get "title" }}
+    {{ if .Get "link" }}
+      <a href="{{ .Get "link" }}" target="_blank">[Link]</a>
+    {{ end }}
+  </summary>
+  {{ if .Inner }}
+    <div>{{ .Inner }}</div>
+  {{ end }}
+</details>
