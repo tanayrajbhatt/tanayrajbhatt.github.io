@@ -8,11 +8,8 @@ draft: false
 
 ### Working Papers
 
-<<<<<<< HEAD
+
 {{< paper title="Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India" authors="with Arpit Deomurari, Athisii Kayina, Poonam Kumari, Nitin Sekar, Sanchaya Sharma, E. Somanathan" status="Accepted, Conservation Biology" >}}
-=======
-{{< paper title="Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India" authors="with Arpit Deomurari, Athisii Kayina, Poonam Kumari, Nitin Sekar, Sanchaya Sharma, E. Somanathan (2nd revision submitted)" >}}
->>>>>>> b175857fe19586d51d34805cfc0d91486405736f
 
 {{< dropdown title="Abstract" >}}
 Human-elephant conflict (HEC) frequently results in human and elephant mortality, posing
@@ -56,8 +53,4 @@ according to the monotone likelihood ratio.
  
 ### Other Writings
 
-<<<<<<< HEAD
 {{< paper title="Climate Policy Architecture in India" authors="with E. Somanathan" status="EAERE Magazine, Fall 2021" link="https://www.eaere.org/wp-content/uploads/2021/10/EAERE-Magazine-N.14-Fall-2021.pdf" >}}
-=======
-1. Climate Policy Architecture in India  
->>>>>>> b175857fe19586d51d34805cfc0d91486405736f
