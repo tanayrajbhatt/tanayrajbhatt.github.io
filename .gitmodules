@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = themes/hugo-embed-pdf-shortcode
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
-=======
-[submodule "themes/hugo-embed-pdf-shortcode"]
-	path = themes/hugo-embed-pdf-shortcode
-	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
-[submodule "themes/cactus"]
-	path = themes/cactus
-	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
->>>>>>> b175857fe19586d51d34805cfc0d91486405736f
