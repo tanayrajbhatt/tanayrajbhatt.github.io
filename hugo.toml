@@ -28,7 +28,7 @@ url = "/cv/"
 weight = 3
 
 [[menu.main]]
-identifier = "resources_content"
+identifier = "resources"
 name = "Resources"
 url = "/resources/"
 weight = 4
