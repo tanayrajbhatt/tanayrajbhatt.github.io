@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Tanay Raj Bhatt</title>
-    <link>http://localhost:1313/resources/</link>
+    <link>https://tanayrajbhatt.github.io/resources/</link>
     <description>Recent content in Resources on Tanay Raj Bhatt</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Tanay Raj Bhatt</copyright>
-    <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tanayrajbhatt.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/resources/resources/</link>
+      <link>https://tanayrajbhatt.github.io/resources/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/resources/</guid>
+      <guid>https://tanayrajbhatt.github.io/resources/resources/</guid>
       <description></description>
     </item>
   </channel>
