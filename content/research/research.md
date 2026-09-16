@@ -27,7 +27,7 @@ In a typical model of private information and choice under uncertainty, a decisi
 
 {{< paper title="Models as Explanations: Berk-Nash Reasoning Under Latent Variables" status="Draft available upon request">}}
   
-{{< dropdown title="Abstract"}}
+{{< dropdown title="Abstract" >}}
 We generalize the Berk–Nash framework to study misspecification in games in which players need to reason about latent variables. A subjective model (or a theory) is a joint distribution over consequences and latent explanations, and different theories are evaluated by a one-parameter family of inference rules, indexed by a parameter $\tau$, that differ in how the latent variables are treated. Unlike standard Berk-Nash, when selection criterion ties multiple theories beliefs are not formed by averaging over selected theories; every action played is optimal under a single theory. Players systematically distinguish observationally equivalent theories, favoring those whose explanations are sharper, and an observationally correct theory need not be selected. The weighted Kullback–Leibler criterion underlying Berk–Nash equilibrium is obtained as the rule at $\tau = 1$. We establish the existence for our equilibrium concept, and establish a population based learning foundation for a refinement of our equilibrium concept. {{< /dropdown >}}
 
 ### Work in Progress
