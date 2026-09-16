@@ -3,8 +3,9 @@ title: "Research"
 date: 2025-03-31
 draft: false
 ---
-<!-- 
-#### Publications -->
+
+
+#### Publications
 
 
 {{< paper title="Effectiveness of organized guarding in reducing mortality from human-elephant conflict: evidence from north-east India" authors="with Arpit Deomurari, Athisii Kayina, Poonam Kumari, Nitin Sekar, Sanchaya Sharma, E. Somanathan" status="Conservation Biology 2026" >}}
